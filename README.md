@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **SQL, Power BI, Machine Learning**
 
-💬 Ask me about **Python, WebScraping, Data Mining... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, WebScraping, Data Mining... or anything [here](#)**
 
 ⚡ Fun fact **There Are More Stars in the Universe than Grains of Sand on Earth**
 
@@ -49,19 +49,20 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sailesh01/sailesh01/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br/>
-
+<div align="center">
 <a href="https://github.com/sailesh01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sailesh01&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailesh01&theme=buefy&layout=compact" />
 </a>
 
 <br/>><br/>
+</div>
 
 
