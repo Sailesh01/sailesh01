@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ My Stats ⚡</h2>
 <br/>
 
 <a href="https://github.com/sailesh01">
